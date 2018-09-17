@@ -1,0 +1,13 @@
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.LaCalculadora.resources
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\bin\Debug\Entidades.dll
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Genma\Escritorio\TP1.Manuel.Gonzalez.Div.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
