@@ -1,0 +1,12 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Excepciones\bin\Debug\Excepciones.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Excepciones\bin\Debug\Excepciones.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Excepciones\obj\Debug\Excepciones.pdb

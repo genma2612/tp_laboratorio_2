@@ -1,0 +1,18 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\EntidadesAbstractas.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\EntidadesAbstractas.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.pdb

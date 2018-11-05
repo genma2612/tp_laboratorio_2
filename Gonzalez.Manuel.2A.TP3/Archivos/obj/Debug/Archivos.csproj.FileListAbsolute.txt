@@ -1,0 +1,18 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Archivos.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Excepciones.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\bin\Debug\Excepciones.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Archivos\obj\Debug\Archivos.pdb

@@ -1,0 +1,26 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesInstanciables.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesInstanciables.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesAbstractas.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesAbstractas.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesInstanciables.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesInstanciables.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesAbstractas.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\EntidadesAbstractas.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\Clases Instanciables\obj\Debug\EntidadesInstanciables.pdb

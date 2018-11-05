@@ -1,0 +1,32 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Archivos.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesAbstractas.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesInstanciables.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Excepciones.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Archivos.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesAbstractas.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesInstanciables.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Excepciones.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Archivos.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesAbstractas.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesInstanciables.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Excepciones.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Archivos.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesAbstractas.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\EntidadesInstanciables.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\bin\Debug\Excepciones.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\Gonzalez.Manuel.2A.TP3\ConsoleApp\obj\Debug\ConsoleApp.pdb
