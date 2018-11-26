@@ -1,0 +1,14 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\bin\Debug\Entidades.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\MainCorreo\bin\Debug\Entidades.dll.config

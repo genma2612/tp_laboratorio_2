@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades.PaqueteDAO">
+    <Position X="0.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>PaqueteDAO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Correo">
+    <Position X="0.5" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAICAAAAAwAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Correo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.GuardaString">
+    <Position X="0.5" Y="7.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GuardaString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades.Paquete">
+    <Position X="5.5" Y="0.5" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades.Paquete.EEstado">
+        <TypeIdentifier>
+          <NewMemberFileName>Paquete.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Delegate Name="Entidades.Paquete.DelegadoEstado" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Paquete.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAQACEgAAAAAAABAAAAACAAAQAAAIAAig=</HashCode>
+      <FileName>Paquete.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entidades.TrackingIdRepetidoException">
+    <Position X="4.25" Y="7.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrackingIdRepetidoException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entidades.IMostrar&lt;T&gt;">
+    <Position X="0.5" Y="5.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMostrar.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

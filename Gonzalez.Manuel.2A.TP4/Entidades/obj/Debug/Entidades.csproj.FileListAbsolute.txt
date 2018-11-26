@@ -1,0 +1,7 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
