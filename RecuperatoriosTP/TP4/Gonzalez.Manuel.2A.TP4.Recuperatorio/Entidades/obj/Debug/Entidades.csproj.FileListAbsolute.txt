@@ -1,0 +1,21 @@
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+D:\Genma\Escritorio\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.dll.config
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4\Entidades\bin\Debug\Entidades.pdb
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.dll
+D:\Genma\Documents\Apuntes y Bibliografia UTN\Github\Trabajos Practicos 2\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4\Entidades\obj\Debug\Entidades.pdb
+D:\Genma\Escritorio\asdf\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4.Recuperatorio\Entidades\bin\Debug\Entidades.dll.config
+D:\Genma\Escritorio\asdf\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4.Recuperatorio\Entidades\bin\Debug\Entidades.dll
+D:\Genma\Escritorio\asdf\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4.Recuperatorio\Entidades\bin\Debug\Entidades.pdb
+D:\Genma\Escritorio\asdf\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4.Recuperatorio\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Genma\Escritorio\asdf\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4.Recuperatorio\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Genma\Escritorio\asdf\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4.Recuperatorio\Entidades\obj\Debug\Entidades.dll
+D:\Genma\Escritorio\asdf\RecuperatoriosTP\TP4\Gonzalez.Manuel.2A.TP4.Recuperatorio\Entidades\obj\Debug\Entidades.pdb
